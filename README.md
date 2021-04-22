@@ -1,4 +1,4 @@
-<h1>Hi there , Rishabh Raghwendra this side <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hi there , Rishabh Raghwendra this side <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 ---
 
@@ -10,13 +10,10 @@
 - 👦🏻 Currently focusing on Web Dev
 - 👯 I’m exploring the Open Source World
 - 💪 Continously focus on enhancing my skills
-  </br>
-
+</br>
 ### Connect wit Me
 <img height="32" width="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-
 <br/>
-
 ### Tech Stack and Tools
 
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Backend-NodeJS-informational?style=flat&logo=Node.js&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/framework-Express-informational?style=flat&logo=express&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/DB-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
