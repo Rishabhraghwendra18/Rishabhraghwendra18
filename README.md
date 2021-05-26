@@ -10,7 +10,9 @@
 - 💪 Continously focus on enhancing my skills
 </br>
 <h3> Connect wit Me</h3>
+<a href="https://www.linkedin.com/in/rishabh-sde/">
 <img height="32" width="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+</a>
 <br/>
 <h3>Tech Stack and Tools</h3>
 
