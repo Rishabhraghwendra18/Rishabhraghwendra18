@@ -1,6 +1,6 @@
 <h1 align="center">Hi there , Rishabh Raghwendra this side <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h2 align="center">A Continous Learner </h2>
+<h2 align="center">An Avid Learner <img src="https://media.giphy.com/media/D4wj7Ffx9fsEAy7B0h/giphy.gif" width="25px"></h2>
 
 - 👨🏽‍💻 I’m a passionate programmer
 - ❤️ Love to learn new technologies
