@@ -5,8 +5,8 @@
 - 👨🏽‍💻 I’m a passionate programmer
 - ❤️ Love to learn new technologies
 - 👫 Love to interact with people and learn from them
-- 👦🏻 Currently focusing on Web Dev
-- 👯 I’m exploring the Open Source World
+- 🧐 Focusing on developing scalable systems
+- 👯 Exploring the Open Source World
 - 💪 Continously focus on enhancing my skills
 </br>
 <h3> Connect wit Me</h3>
